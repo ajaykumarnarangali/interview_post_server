@@ -56,6 +56,9 @@ Delete a blog post.
 ## steps need to run
 
 clone repository
+
 install the necessary dependency --> # npm install
+
 change the env variables in config/config.js
+
 start the server ---> npm run test
